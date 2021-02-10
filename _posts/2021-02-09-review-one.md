@@ -20,7 +20,7 @@ _Monet Paintings and Drawings at the Art Institute of Chicago_ is an online scho
 
 **Design**
 
-The most prominent feature of the project was the use of high-resolution images. When viewing the paintings and drawings, it was clear to see the remarkable true-color photos that allow readers to zoom in closely to see the artwork’s brushstrokes and even the tiny Monet’s signatures. There was also a detailed explanation using unpublicized professional photographs that displayed information hidden beneath the artwork’s surface through X-ray, infrared, and other technologies. The image below shows an X-ray and natural-light image of the Monet’s _Cliff Walk at Pourville_, which shows the extension of the present horizon line farther to the right.
+The most prominent feature of the project was the use of high-resolution images. When viewing the paintings and drawings, it was clear to see the remarkable true-color photos that allow readers to zoom in closely to see the artwork’s brushstrokes and even the tiny Monet’s signatures. There was also a detailed explanation using unpublicized professional photographs that displayed information hidden beneath the artwork’s surface through X-ray, infrared, and other technologies. The image below shows an X-ray and natural-light image of the Monet’s _Cliff Walk at Pourville_, which shows the extension of the present horizon line farther to the right. The one critique would be that this catalog did not work well with mobile devices, so for the best experience, it was best to use a browser or device at least a size of a tablet, preferably a computer-sized screen.
 
 
 ![Xrays](https://yuhkak.github.io/YuhkaK/images/Xrays.jpg)
