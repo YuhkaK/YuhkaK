@@ -30,3 +30,6 @@ The most prominent feature of the project was the use of high-resolution images.
 
 This project did an excellent job of making the catalog easily accessible to a variety of readers. It is clear they considered accessibility and functionalities as their focus. This catalog did not only include the artworks but also made readers investigate more by the inclusion of art historical research and documents. However, with so many forms about one painting, it felt a little unorganized and hard to tell if the information were relevant to the artwork itself, so it would be more pleasant to have some table of contents at the beginning. Nonetheless, with these available documents, readers can have an option to select which materials they would like to read.
 
+**Findings**
+
+![Tool](https://yuhkak.github.io/YuhkaK/images/Tool.jpg)
