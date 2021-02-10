@@ -32,4 +32,11 @@ This project did an excellent job of making the catalog easily accessible to a v
 
 **Findings**
 
+
 ![Tool](https://yuhkak.github.io/YuhkaK/images/Tool.jpg)
+
+
+Some of the remarkable features in this project were paragraph numbers, moving bars, and glossary. Firstly, the paragraph numbers helped readers easier to locate the text rather than page numbers. The moving bar across the bottom of the page pinpointed how much was left to read in the document. Lastly, the compact glossary showed a definition of unfamiliar terms and can be opened and closed at the reader’s convenience. However, the table of contents on the left side of the catalog felt tiny and difficult to click, so it would be preferable to use bigger or expand all the works of art’s list. Overall, this online platform’s exhibition produced a significant opportunity to see the artwork very close up and observe every detail of the painting. This catalog was also made very well for various users from scholars who are an expert at art history to people who are the first time visiting the Art Institute of Chicago’s museum.
+
+
+
