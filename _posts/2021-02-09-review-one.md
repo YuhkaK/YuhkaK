@@ -6,7 +6,9 @@ Project Director(s): Gloria Groom, Jill Shaw, and James A. Ganz.
 
 Project URL: https://publications.artic.edu/monet/reader/paintingsanddrawings/section/135470/135470_anchor
 
+
 ![Project Website](https://yuhkak.github.io/YuhkaK/images/Monet.png)
+
 
 **Summary**
 
@@ -15,11 +17,10 @@ _Monet Paintings and Drawings at the Art Institute of Chicago_ is an online scho
 
 ![Signatures](https://yuhkak.github.io/YuhkaK/images/Signatures.jpg)
 
+
 **Design**
 
 The most prominent feature of the project was the use of high-resolution images. When viewing the paintings and drawings, it was clear to see the remarkable true-color photos that allow readers to zoom in closely to see the artwork’s brushstrokes and even the tiny Monet’s signatures. There was also a detailed explanation using unpublicized professional photographs that displayed information hidden beneath the artwork’s surface through X-ray, infrared, and other technologies. The image below shows an X-ray and natural-light image of the Monet’s _Cliff Walk at Pourville_, which shows the extension of the present horizon line farther to the right.
-
-
 
 
 ![Xrays](https://yuhkak.github.io/YuhkaK/images/Xrays.jpg)
