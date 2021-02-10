@@ -1,10 +1,10 @@
 ### Review: Monet Paintings and Drawings at the Art Institute of Chicago
 
-Project: Monet Paintings and Drawings at the Art Institute of Chicago
+**Project:** Monet Paintings and Drawings at the Art Institute of Chicago
 
-Project Director(s): Gloria Groom, Jill Shaw, and James A. Ganz.
+**Project Director(s):** Gloria Groom, Jill Shaw, and James A. Ganz.
 
-Project URL: <https://publications.artic.edu/monet/reader/paintingsanddrawings/section/135470/135470_anchor>
+**Project URL:** <https://publications.artic.edu/monet/reader/paintingsanddrawings/section/135470/135470_anchor>
 
 
 ![Project Website](https://yuhkak.github.io/YuhkaK/images/Monet.png)
