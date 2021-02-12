@@ -24,7 +24,7 @@ The most prominent feature of the project was the use of high-resolution images.
 
 **Relevance**
 
-This project did an excellent job of making the catalog easily accessible to a variety of readers. The project’s team considered accessibility and functionalities. This catalog not only included the artworks, but it also used art historical research and documents to provide readers with even more information. However, with so many forms of the same painting on one screen/webpage, it was a little difficult to tell if the information were relevant to the artwork itself. It might be helpful for the website to have a table of contents at the beginning. Nonetheless, with these available documents, readers can select which materials they would like to read.
+This project did an excellent job of making the catalog easily accessible to a variety of readers. The project’s team considered accessibility and functionalities. This catalog not only included the artworks, but it also used art historical research and documents to provide readers with even more information. However, with so many forms of the same painting on one screen, it was a little difficult to tell if the information were relevant to the artwork itself. It might be helpful for the website to have a table of contents at the beginning. Nonetheless, with these available documents, readers can select which materials they would like to read.
 
 **Findings**
 
