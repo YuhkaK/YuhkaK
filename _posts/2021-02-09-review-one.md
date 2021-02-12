@@ -12,7 +12,7 @@
 
 **Summary**
 
-_Monet Paintings and Drawings at the Art Institute of Chicago_ is an online scholarly catalog of artworks created by Claude Monet and other paintings related to the artist from the nineteenth century. The collection, funded by the Getty Foundation and the Art Institute’s David and Mary Winton Green Nineteenth-Century Research Fund, contained 47 of Monet’s well-known artworks such as _Water Lily Pond_ and _Cliff Walk at Pourville_. Readers can explore a collection of artworks from nine museums, including the Art Institute of Chicago, to create an enjoyable and lasting figure for online scholarly catalogs.
+_Monet Paintings and Drawings at the Art Institute of Chicago_ is an online scholarly catalog of artworks created by Claude Monet from the nineteenth century. The collection, funded by the Getty Foundation and the Art Institute’s David and Mary Winton Green Nineteenth-Century Research Fund, contained 47 of Monet’s well-known artworks such as _Water Lily Pond_ and _Cliff Walk at Pourville_. Readers can explore a collection of artworks from nine museums, including the Art Institute of Chicago, to create an enjoyable and lasting figure for online scholarly catalogs.
 
 **Design**
 
