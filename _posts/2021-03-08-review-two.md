@@ -4,7 +4,7 @@
 
 **Project Director(s):** Andrew Weir and Robin Wong with British Museum & Google Arts & Culture Institute 
 
-**Project URL:** <https://britishmuseum.withgoogle.com/ >
+**Project URL:** <https://britishmuseum.withgoogle.com/>
 
 
 ![Project Website](https://yuhkak.github.io/YuhkaK/images/World.png)
