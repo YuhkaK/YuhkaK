@@ -22,3 +22,6 @@ This website uses one of the most advanced WebGL (Web Graphics Library) technolo
 
 
 ![Line](https://yuhkak.github.io/YuhkaK/images/Connect.png)
+
+
+![Label](https://yuhkak.github.io/YuhkaK/images/Label.png)
