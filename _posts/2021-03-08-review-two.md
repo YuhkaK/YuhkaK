@@ -16,7 +16,7 @@ _The Museum of the World_ is a virtual museum with a unique feature of interacti
 
 **Design**
 
-The most incredible feature of the project is the overall designs of a vivid and beautiful project is. When first entering the website, it takes few minutes to load all the information, but it is entertaining to see all the colorful dots forming. The artworks are organized in horizontal and vertical ways. In horizontal, it is broken up into continents with different colors: Africa (yellow), Americas (orange), Asia (green), Europe (blue), and Oceania (purple). For vertical, it is broken up into years from 2,000,000 BC to AD 2,000, presenting that they have ancient artwork to more recent artworks. When clicking on each dot, it shows the artworks, and you can zoom in on all these artworks in ways you couldn’t even do at a museum.
+The most incredible feature of the project is the overall design of a vivid and beautiful project. When first entering the website, it takes few minutes to load all the information, but it is entertaining to see all the colorful dots forming. The artworks are organized in horizontal and vertical ways. In horizontal, it is broken up into continents with different colors: Africa (yellow), Americas (orange), Asia (green), Europe (blue), and Oceania (purple). For vertical, it is broken up into years from 2,000,000 BC to AD 2,000, presenting that they have ancient artwork to more recent artworks. When clicking on each dot, it shows the artworks, and you can zoom in on all these artworks in ways you couldn’t even do at a museum.
 
 The visible feature of the DH is the use of one of the most advanced WebGL (Web Graphics Library) technology available. This program enhanced to make one of the best combinations of 2D and 3D graphics. However, the WebGL did not work with mobile devices, so for the best experience, it was best to use a browser or device at least a size of a tablet, preferably a laptop or desktop.
 
@@ -28,7 +28,7 @@ The visible feature of the DH is the use of one of the most advanced WebGL (Web 
 
 This project did a magnificent job of making it enjoyable to display artworks from around the world. When clicking on one of the dots, it connects with other dots to show the relationships with those artworks. However, it is hard to understand the connections between each dot and how they’re intertwined. Perhaps the materials or colors are similar to each other, but there is no explanation, so it is unclear. On the right side of the website, there is a tab that allows highlighting individual types of dots into other categories such as art and design, power and identity, and trade and conflict so that users can narrow down the amounts of dots.
 
-The timeline on the left side is also an engaging way of showing that time is moving on in all continents simultaneously, so it is very easy to search and compare what happened around the world and what was created in each country.
+The timeline on the left side is also an engaging way of showing that time is moving on in all continents simultaneously. It is very easy to search and compare what happened around the world and what was created in each country.
 
 
 ![Label](https://yuhkak.github.io/YuhkaK/images/Label.png)
