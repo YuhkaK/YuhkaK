@@ -12,7 +12,7 @@
 
 **Summary**
 
-_The Museum of the World_ is a virtual museum with a unique feature of interactive experience from the collaboration between the British Museum and the Google Culture Institute. This project contains hundreds of cultural objects in human history from prehistory ages to the present times. Readers can explore a collection of alluring artworks from across diverse continents on one website.
+_The Museum of the World_ is a virtual museum with a unique feature that allows interactive experience from the collaboration between the British Museum and the Google Culture Institute. This project contains hundreds of cultural objects of human history from prehistory ages to the present times. Readers can explore a collection of alluring artworks from across diverse continents on one website.
 
 **Design**
 
