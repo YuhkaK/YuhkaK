@@ -26,7 +26,7 @@ The visible feature of the digital humanities is using one of the most advanced 
 
 **Relevance**
 
-This project did a magnificent job of making it enjoyable to display artworks from around the world. When clicking on one of the dots, it connects with other dots to show the relationships with those artworks. However, it is hard to understand the connections between each dot and how they’re intertwined. Perhaps the materials or colors are similar to each other, but there is no explanation, so it is unclear. On the right side of the website, there is a tab that allows highlighting individual types of dots into other categories such as art and design, power and identity, and trade and conflict so that users can narrow down the amounts of dots.
+This project did a magnificent job of making it enjoyable to display artworks from around the world. When clicking on one of the dots, it connects with other dots to show the relationships with those artworks. However, it is hard to understand the connections between each dot and how they’re intertwined. Perhaps the materials or colors are similar to each other, but there is no explanation, so it is unclear. On the right side of the website, there is a tab that allows users to highlight individual types of dots into other categories such as art and design, power and identity, and trade and conflict so that users can narrow down the amounts of dots.
 
 The timeline on the left side is also an engaging way of showing that time is moving on in all continents simultaneously. It is very easy to search and compare what happened around the world and what was created in each country.
 
