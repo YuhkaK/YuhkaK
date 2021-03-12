@@ -18,7 +18,7 @@ _The Museum of the World_ is a virtual museum with a unique feature that enables
 
 The most incredible feature of the project is the overall design of the vivid and beautiful project. When first entering the website, it takes a few minutes to load all the information, but it is entertaining to see all the colorful dots forming. The graphics are organized in horizontal and vertical axes. In the horizontal axis, the artworks are broken up into continents with different colors: Africa (yellow), Americas (orange), Asia (green), Europe (blue), and Oceania (purple). For vertical, it is broken up into years from ancient works in 2,000,000 BC to more recent artworks in AD 2,000. When clicking on each dot, it shows the artworks, and you can zoom in on all these artworks in ways you couldn’t ever do at a museum.
 
-The visible feature of the digital humanities is using one of the most advanced WebGL (Web Graphics Library) technologies available. This program was enhanced to make one of the best combinations of 2D and 3D graphics. However, since the WebGL did not work with mobile devices, for the best experience, it was best to use a browser or device at least the size of the tablet, preferably a laptop or desktop.
+The visible feature of the digital humanities is using one of the most advanced WebGL (Web Graphics Library) technologies available. This program was enhanced to make one of the best combinations of 2D and 3D graphics. However, since the WebGL did not work with mobile devices, for the best experience, it was best to use a browser or device at least the size of a tablet, preferably a laptop or desktop.
 
 
 ![Line](https://yuhkak.github.io/YuhkaK/images/Connect.png)
